@@ -1,0 +1,66 @@
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: xx-large;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #21759b;
+}
+
+table {
+    width: 82%;
+    margin: auto;
+}
+
+.text {
+    font-family: Verdana, sans-serif;
+    font-size: 105%;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.footer {
+    font-size: x-small;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+tr {
+    font-family: Verdana, sans-serif;
+}
+
+tr:nth-child(2n) {
+    color: #d2e3eb;
+    background-color: #0d2e3e;
+}
+
+tr:nth-child(2n+1) {
+    background-color: #d2e3eb;
+}
+
+td {
+    padding: 5px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.head {
+    font-size: larger;
+    font-weight: bold;
+    background-color: #d2e3eb;
+    text-align: center;
+}
